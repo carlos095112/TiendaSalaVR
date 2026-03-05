@@ -1173,9 +1173,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\n\n\n\n\nJuego realizado por\nJUAN CARLOS CASTRO HOYOS\n\nVERSION  1.0.0.0\n\nubicua\nTechnology\n\nReaidad
-    Aumentada y Virtual\nnivel 02\n\nProfesor  \nxxxxxx xxxxx xxxxx \n\nProgramas\nUnity
-    6.2\nBlender 4.O\ncardboardUBICUA\n\nDiciembre 2025\n \n\n\n\n\n\n\n\n"
+  m_text: "\n\n\n\n\nJuego realizado por\nJUAN CARLOS CASTRO HOYOS\n\nVERSION  1.0.0.1\n\nubicua\nTechnology\n\nReaidad 
+    Virtual\nnivel 02\n\nProfesor  \nEDGAR GONZALES \n\nProgramas\nUnity 6.2\nBlender
+    4.O\ncardboardUBICUA\n\nDiciembre 2025\n \n\n\n\n\n\n\n\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
