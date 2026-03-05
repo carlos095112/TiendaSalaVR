@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/RV CardBoard/Menu.unity
+    guid: 73f76b4c66cac224a8f97733a8a39248
+  - enabled: 1
+    path: Assets/Scenes/RV CardBoard/Cosmic_Retro.unity
+    guid: 4175d0df864b128439dbd6b96af4a948
+  - enabled: 1
+    path: Assets/Scenes/RV CardBoard/Creditos.unity
+    guid: d4569c89c54e26646998aec7facb1260
+  - enabled: 1
+    path: Assets/Scenes/RV CardBoard/Portafolio.unity
+    guid: 4c619d36d05e1c7488399931aaed90ac
+  - enabled: 1
+    path: Assets/Scenes/RV CardBoard/VRproject.unity
+    guid: 96f226853edf83c40a5cd50b913a292d
+  - enabled: 1
+    path: Assets/Scenes/RV CardBoard/Informacion.unity
+    guid: 4f0e5d616ea16b74ea2982cd635d7949
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b0e909d1f357c934ca533f754d042688, type: 2}
+  m_UseUCBPForAssetBundles: 0
